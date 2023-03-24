@@ -26,17 +26,15 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Hi!+welcome+to+S
 <div style="display: inline_block"><br>
    
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git"/>
-    <img src="https://skillicons.dev/icons?i=html"/>
-    <img src="https://skillicons.dev/icons?i=css"/>
-    <img src="https://skillicons.dev/icons?i=js"/>
+    <img src="https://skillicons.dev/icons?i=lua"/>
+    <img src="https://skillicons.dev/icons?i=discord"/>
     <img src="https://skillicons.dev/icons?i=nodejs"/>
-    <img src="https://skillicons.dev/icons?i=typescript"/>
     <img src="https://skillicons.dev/icons?i=python"/>
     <img src="https://skillicons.dev/icons?i=react"/>
     <img src="https://skillicons.dev/icons?i=linux"/>
     <img src="https://skillicons.dev/icons?i=mongodb"/>
     <img src="https://skillicons.dev/icons?i=blender"/>
+    <img src="https://skillicons.dev/icons?i=powershell"/>
    
 </div>
 
