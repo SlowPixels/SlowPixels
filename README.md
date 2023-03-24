@@ -1,31 +1,23 @@
 ## 🎏 Pixelon
    <img align="right" alt="PXN-gifs" src="./imgs_pxn/imgsk33 (1).gif">
 <p align="center">
-<h3 align="left">:gem: Welcomee to the best Github profile!! 🥵 :p </h3>
+<h3 align="left">:gem: Welcome to the second best profile on Github!! :p </h3>
 <ul>
 </div>
 
-> I'm a `Front-end web developer` and `UX/UI Designer.` I have 2 years of experience in the field.
+> I'm `Front-end web developers` and `UX/UI Designer.` We have some years of experience in the field.
 
-> *I love programming*, it's a passion I've had since I was young, I've always enjoyed playing with code and seeing how things work. _Programming_ allows me to create something from scratch and see my ideas come true.
+> In this corporation/Organization we practice all kinds of things, and we will do whatever this life offers. And with this fuck journey we will show you everything. Along the way you'll perfect it together with us at SlowPixels.
+> *Programming is life*, programming is the future.
 
 [![Typing
 SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Hi!+Meu+nome+é+Kauã.)](https://git.io/typing-svg)
 
-  <li>👑 | Founder and CEO of SlowPixels™ .
-  <li>💻 | I'm very enthusiastic about JS and Python, every hour I'm...
-  <li>🎨 | Ilustrador, Designer Geral.
-  <li>:date: | I'm 17y old 
-  <li>🌍 | Moro em SC-Florianopolis....
+  <li>👑 | SlowPixels™ .
+  <li>🌍 | Local: SC-Florianopolis
      
 </ul>
 
-:speech_balloon: Me adicione no Discord: [`! Pixelon#2947`](https://discord.com/users/230834721372766208)
-<details> <summary><strong>🍡 Discord Details (Clique aqui)</strong></summary> <p align="left"> <h2>Veja o meu perfil do Discord!</h2> <div>
-    
-  <a href="https://discord.com/users/230834721372766208" target="_blank">
-    <img width="45%" src="https://lanyard.cnrad.dev/api/230834721372766208?bg=151515&borderRadius=5px" alt="Discord Status"/>
-</a>
    
    </div>  </p> </details>
 
