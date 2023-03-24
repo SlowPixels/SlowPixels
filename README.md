@@ -1,17 +1,17 @@
-## 🎏 Pixelon
-   <img align="right" alt="PXN-gifs" src="./imgs_pxn/imgsk33 (1).gif">
+<img align="right" alt="PXN-gifs" src="./imgs_pxn/imgsk33 (1).gif">
 <p align="center">
-<h3 align="left">:gem: Welcome to the second best profile on Github!! :p </h3>
+<h3 align="left">✨ Welcome to the second best profile on Github!! :p </h3>
 <ul>
 </div>
 
 > I'm `Front-end web developers` and `UX/UI Designer.` We have some years of experience in the field.
 
 > In this corporation/Organization we practice all kinds of things, and we will do whatever this life offers. And with this fuck journey we will show you everything. Along the way you'll perfect it together with us at SlowPixels.
+
 > *Programming is life*, programming is the future.
 
 [![Typing
-SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Hi!+Meu+nome+é+Kauã.)](https://git.io/typing-svg)
+SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Hi!+welcome+to+SlowPixels+🚀)](https://git.io/typing-svg)
 
   <li>👑 | SlowPixels™ .
   <li>🌍 | Local: SC-Florianopolis
@@ -67,7 +67,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Hi!+Meu+nome+é+
   ##
    
   [![Typing
-SVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=vaza+random.)](https://git.io/typing-svg)
+SVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=trilhe+o+teu+caminho.)](https://git.io/typing-svg)
  
 <!-- Script completo feito por Pixelon. -->
 <!-- by pixelon -->
